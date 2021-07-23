@@ -17,7 +17,7 @@ description: 辅助考试的其他信息
 
 {% tab title="工具集" %}
 * [ ] **John the Ripper**   [https://www.youtube.com/watch?v=XjVYl1Ts6XI](https://www.youtube.com/watch?v=XjVYl1Ts6XI)
-* [ ] **WCE**   [https://www.youtube.com/watch?v=u0RppDmw1So](https://www.youtube.com/watch?v=u0RppDmw1So)
+* [x] **WCE**   [https://www.youtube.com/watch?v=u0RppDmw1So](https://www.youtube.com/watch?v=u0RppDmw1So)
 * [ ] 
 {% endtab %}
 {% endtabs %}
