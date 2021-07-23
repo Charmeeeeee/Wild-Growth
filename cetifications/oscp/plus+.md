@@ -18,6 +18,9 @@ description: 辅助考试的其他信息
 {% tab title="工具集" %}
 * [ ] **John the Ripper**   [https://www.youtube.com/watch?v=XjVYl1Ts6XI](https://www.youtube.com/watch?v=XjVYl1Ts6XI)
 * [x] **WCE**   [https://www.youtube.com/watch?v=u0RppDmw1So](https://www.youtube.com/watch?v=u0RppDmw1So)
+* [ ] Minikatz   
+  * [ ] [https://www.youtube.com/watch?v=pHogtu6Im7U](https://www.youtube.com/watch?v=pHogtu6Im7U)
+  * [ ] [https://www.youtube.com/watch?v=52xkWbDMUUM&list=PLbsjou4A\_kTvTjTGdgw1tvPL-nqUalnxL&index=33](https://www.youtube.com/watch?v=52xkWbDMUUM&list=PLbsjou4A_kTvTjTGdgw1tvPL-nqUalnxL&index=33)
 * [ ] 
 {% endtab %}
 {% endtabs %}
