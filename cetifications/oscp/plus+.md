@@ -21,6 +21,9 @@ description: 辅助考试的其他信息
 * [ ] Minikatz   
   * [ ] [https://www.youtube.com/watch?v=pHogtu6Im7U](https://www.youtube.com/watch?v=pHogtu6Im7U)
   * [ ] [https://www.youtube.com/watch?v=52xkWbDMUUM&list=PLbsjou4A\_kTvTjTGdgw1tvPL-nqUalnxL&index=33](https://www.youtube.com/watch?v=52xkWbDMUUM&list=PLbsjou4A_kTvTjTGdgw1tvPL-nqUalnxL&index=33)
+* [ ] **Empire**   
+  * [ ]  [https://isbase.cc/tip/tools/tools1/tools1.html](https://isbase.cc/tip/tools/tools1/tools1.html) 
+  * [ ] [https://www.youtube.com/watch?v=6l4ZIKwzW8U](https://www.youtube.com/watch?v=6l4ZIKwzW8U)
 * [ ] 
 {% endtab %}
 {% endtabs %}
