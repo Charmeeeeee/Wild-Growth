@@ -4,6 +4,8 @@
 
 ## 基础 <a id="basics"></a>
 
+* [Windows](basics/windows.md)
+* [Linux](basics/linux.md)
 * [编程语言](basics/sql/README.md)
   * [Bash](basics/sql/untitled.md)
   * [SQL](basics/sql/sql.md)
