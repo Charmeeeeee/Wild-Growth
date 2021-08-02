@@ -25,6 +25,9 @@ description: 辅助考试的其他信息
   * [ ]  [https://isbase.cc/tip/tools/tools1/tools1.html](https://isbase.cc/tip/tools/tools1/tools1.html) 
   * [ ] [https://www.youtube.com/watch?v=6l4ZIKwzW8U](https://www.youtube.com/watch?v=6l4ZIKwzW8U)
   * [ ] [https://www.youtube.com/watch?v=CzZmzBIVJHA](https://www.youtube.com/watch?v=CzZmzBIVJHA)
+  * [ ] [https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt1](https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt1)
+  * [ ] [https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt2](https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt2)
+  * [ ] [https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt3](https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt3)
 * [ ] 
 {% endtab %}
 {% endtabs %}
