@@ -15,6 +15,7 @@
   * [ ] [https://www.varonis.com/blog/pen-testing-active-directory-environments-part-iv-graph-fun/](https://www.varonis.com/blog/pen-testing-active-directory-environments-part-iv-graph-fun/)
   * [ ] [https://www.varonis.com/blog/pen-testing-active-directory-v-admins-graphs/](https://www.varonis.com/blog/pen-testing-active-directory-v-admins-graphs/)
   * [ ] [https://www.varonis.com/blog/pen-testing-active-directory-part-vi-final-case/](https://www.varonis.com/blog/pen-testing-active-directory-part-vi-final-case/)
+  * [ ] [https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse)
 {% endtab %}
 
 {% tab title="Second Tab" %}
