@@ -29,6 +29,7 @@ description: 辅助考试的其他信息
   * [ ] [https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt2](https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt2)
   * [ ] [https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt3](https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt3)
   * [ ] Bloodhound   [https://bloodhound.readthedocs.io/en/latest/index.html](https://bloodhound.readthedocs.io/en/latest/index.html)
+  * [ ] [https://threat.tevora.com/lay-of-the-land-with-bloodhound/](https://threat.tevora.com/lay-of-the-land-with-bloodhound/)
 * [ ] 
 {% endtab %}
 {% endtabs %}
