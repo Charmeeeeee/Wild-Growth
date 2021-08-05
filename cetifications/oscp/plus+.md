@@ -28,9 +28,10 @@ description: 辅助考试的其他信息
   * [x] [https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt1](https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt1)
   * [x] [https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt2](https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt2)
   * [ ] [https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt3](https://www.snaplabs.io/insights/command-and-control-with-powershell-empire-pt3)
-  * [ ] Bloodhound   [https://bloodhound.readthedocs.io/en/latest/index.html](https://bloodhound.readthedocs.io/en/latest/index.html)
+  * [ ] **Bloodhound**   [https://bloodhound.readthedocs.io/en/latest/index.html](https://bloodhound.readthedocs.io/en/latest/index.html)
   * [ ] [https://threat.tevora.com/lay-of-the-land-with-bloodhound/](https://threat.tevora.com/lay-of-the-land-with-bloodhound/)
   * [ ] [https://www.ired.team/offensive-security/red-team-infrastructure/powershell-empire-101](https://www.ired.team/offensive-security/red-team-infrastructure/powershell-empire-101)
+  * [ ] **Powershell**   [http://www.harmj0y.net/blog/powershell/](http://www.harmj0y.net/blog/powershell/)
 * [ ] 
 {% endtab %}
 {% endtabs %}
