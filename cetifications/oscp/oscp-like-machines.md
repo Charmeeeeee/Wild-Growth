@@ -16,12 +16,20 @@ description: 线上靶场中，与OSCP类似的靶机实操流程及涉及的技
    * [ ] Walkthrough
 2. hack me please
    * [ ] [https://www.vulnhub.com/entry/hack-me-please-1,731/](https://www.vulnhub.com/entry/hack-me-please-1,731/)
+   * [ ] Note.
+   * [ ] Walkthrough
 3. digitalworldlocal vengeance
    * [ ] [https://www.vulnhub.com/entry/digitalworldlocal-vengeance,704/](https://www.vulnhub.com/entry/digitalworldlocal-vengeance,704/)
+   * [ ] Note.
+   * [ ] Walkthrough
 4. venom 1
    * [ ] [https://www.vulnhub.com/entry/venom-1,701/](https://www.vulnhub.com/entry/venom-1,701/)
+   * [ ] Note.
+   * [ ] Walkthrough
 5. devguru 1
    * [ ] [https://www.vulnhub.com/entry/devguru-1,620/](https://www.vulnhub.com/entry/devguru-1,620/)
+   * [ ] Note.
+   * [ ] Walkthrough
 {% endtab %}
 
 {% tab title="OFFSEC" %}
