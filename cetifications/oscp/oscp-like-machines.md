@@ -11,7 +11,9 @@ description: 线上靶场中，与OSCP类似的靶机实操流程及涉及的技
 
 {% tab title="VulnHub" %}
 1. hacker kid 101
-   * [ ] [https://www.vulnhub.com/entry/hacker-kid-101,719/](https://www.vulnhub.com/entry/hacker-kid-101,719/)
+   * [x] [https://www.vulnhub.com/entry/hacker-kid-101,719/](https://www.vulnhub.com/entry/hacker-kid-101,719/)
+   * [ ] Note.
+   * [ ] Walkthrough
 2. hack me please
    * [ ] [https://www.vulnhub.com/entry/hack-me-please-1,731/](https://www.vulnhub.com/entry/hack-me-please-1,731/)
 3. digitalworldlocal vengeance
