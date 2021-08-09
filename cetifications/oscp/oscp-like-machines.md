@@ -30,6 +30,12 @@ description: 线上靶场中，与OSCP类似的靶机实操流程及涉及的技
    * [ ] [https://www.vulnhub.com/entry/devguru-1,620/](https://www.vulnhub.com/entry/devguru-1,620/)
    * [ ] Note.
    * [ ] Walkthrough
+6. Secarmy Village: Grayhat Conference
+
+7. Tiki: 1
+8. Healthcare: 1
+9. Photographer: 1
+10. Glasgow Smile: 2
 {% endtab %}
 
 {% tab title="OFFSEC" %}
