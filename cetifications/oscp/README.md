@@ -7,6 +7,7 @@
   * [x] [https://www.youtube.com/watch?v=hxgz7MR7MGQ](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
   * [ ] [https://daiker.gitbook.io/windows-protocol/ldap-pian/8](https://daiker.gitbook.io/windows-protocol/ldap-pian/8)
   * [ ] [https://adsecurity.org/](https://adsecurity.org/)
+  * [ ] [https://www.youtube.com/watch?v=GfqsFtmJQg0](https://www.youtube.com/watch?v=GfqsFtmJQg0)
 * [ ] AD Attacks :
   * [ ] [https://www.youtube.com/playlist?list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk](https://www.youtube.com/playlist?list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk)
   * [ ] [https://www.varonis.com/blog/pen-testing-active-directory-environments-part-introduction-crackmapexec-powerview/](https://www.varonis.com/blog/pen-testing-active-directory-environments-part-introduction-crackmapexec-powerview/)
